@@ -6,12 +6,12 @@ Neste projeto, será desenvolvida uma API RESTful utilizando Spring Boot e Mongo
 
 ## 🛠 **Principais Tecnologias e Conceitos**
 
--*NoSQL e MongoDB:* estruturação e armazenamento de dados   
--*Modelo de domínio:* agregados e desnormalização de dados   
--*Padrão DTO:* transferência eficiente de dados entre camadas   
--*Spring Data MongoDB:* integração com banco de dados NoSQL   
--*CRUD Completo:* criação, leitura, atualização e remoção de registros   
--*Tratamento de exceções:* controle e manipulação de erros   
+- **NoSQL e MongoDB:** estruturação e armazenamento de dados   
+- **Modelo de domínio:** agregados e desnormalização de dados   
+- **Padrão DTO:** transferência eficiente de dados entre camadas   
+- **Spring Data MongoDB:** integração com banco de dados NoSQL   
+- **CRUD Completo:** criação, leitura, atualização e remoção de registros   
+- **Tratamento de exceções:** controle e manipulação de erros   
 
 ## **🚀 Objetivo**
 
